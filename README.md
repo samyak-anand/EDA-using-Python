@@ -16,3 +16,7 @@ Our Goal: We want to create a Python program that:
     If a match is found, map the data point to the chosen function and record the deviation.
 
 Overall Objective: Build a reliable Python program that selects the best ideal functions based on training data and then analyzes the test data using those functions, considering deviations from the ideal.
+
+
+Contact:
+Author: www.linkedin.com/in/samyak-anand-496a1143
